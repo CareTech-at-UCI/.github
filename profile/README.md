@@ -1,9 +1,9 @@
-## Hi! 👋 Welcome to CareTech ⚕️
+# Hi! 👋 Welcome to CareTech ⚕️
 
 
-# We are a new club that promotes and investigates Health Technology field. 
+## We are a new club that promotes and investigates Health Technology field. 
 
-# Core Values
+## Core Values
 
 - **Inclusivity**: Each person on the team should be open to working with each and every member. As you work on your projects, inclusivity should be kept in mind. This value cannot be applied to every project but inclusivity is extremely important in healthcare, and as we make our websites, we should eventually try to make our projects inclusive. For example, such as using **WCAG Guidelines for people with disabilities.**
 
