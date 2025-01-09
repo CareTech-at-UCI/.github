@@ -1,9 +1,7 @@
 ## Hi! 👋 Welcome to CareTech ⚕️
 
-<!--
 
-**Here are some ideas to get you started:**
-# We are a new club that promotes and investigates Health Technology field.
+# We are a new club that promotes and investigates Health Technology field. 
 
 # Core Values
 
@@ -13,6 +11,7 @@
 
 - **Quality:** We should always strive to make our projects with **high quality.** As we hope to have our projects help people in the medical setting, these should always be made with the goal of having it be **high quality.** When making these projects, there should be an idea of **Who** is the population this project is trying to help with.
 
+<!--
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
