@@ -5,11 +5,11 @@
 
 **Core Values**
 
-- **Inclusivity**: Each person on the team should be open to working with each and every member. As you work on your projects, inclusivity should be kept in mind. This value cannot be applied to every project but inclusivity is extremely important in healthcare, and as we make our websites, we should eventually try to make our projects inclusive. For example, such as using **WCAG Guidelines for people with disabilities.**
+- **Inclusivity**: Each person on the team should be open to working with each and every member. Throughout our projects, we always keep inclusivity in mind. This value cannot be applied to every project but inclusivity is extremely important in healthcare. 
 
-- **Collaboration:** As a member of this Tech Committee, they should strive to work with their teammates when needed. Since we are a team, I hope we can listen to everyone’s ideas and manage disagreements professionally. As long as both sides are open to listen and adapt, then we can work together to make quality work.
+- **Collaboration:** When needed, we strive to work with our teammates. At CareTech, we value everyone's ideas and manage disagreements professionally. As long as both sides are open to listen and adapt, then we can work together to make quality work.
 
-- **Quality:** We should always strive to make our projects with **high quality.** As we hope to have our projects help people in the medical setting, these should always be made with the goal of having it be **high quality.** When making these projects, there should be an idea of **Who** is the population this project is trying to help with.
+- **Quality:** We should always strive to make our projects with **high quality.** As we hope to have our projects help people in the medical setting, these should always be made with the goal of having it be **high quality.**
 
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?
