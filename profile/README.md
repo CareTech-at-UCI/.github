@@ -1,7 +1,7 @@
 # Hi! 👋 Welcome to CareTech ⚕️
 
 
-**We are a new club that promotes and investigates Health Technology field.**
+**We are a new club that promotes and investigates the Health Technology field.**
 
 **Core Values**
 
@@ -10,6 +10,8 @@
 - **Collaboration:** When needed, we strive to work with our teammates. At CareTech, we value everyone's ideas and manage disagreements professionally. As long as both sides are open to listen and adapt, then we can work together to make quality work.
 
 - **Quality:** We should always strive to make our projects with **high quality.** As we hope to have our projects help people in the medical setting, these should always be made with the goal of having it be **high quality.**
+
+  ### Come join us at DBH 4011 from 6:00-7:00PM on Tuesdays for our General Meetings/Workshops!
 
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?
