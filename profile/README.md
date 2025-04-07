@@ -1,7 +1,7 @@
 # Hi! 👋 Welcome to CareTech ⚕️
 
 
-**We are a new club that promotes and investigates the Health Technology field.**
+**We are a new club that promotes and investigates the Health Technology field by empowering early disease detection with innovative tech solutions**
 
 **Core Values**
 
