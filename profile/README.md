@@ -11,7 +11,7 @@
 
 - **Quality:** We should always strive to make our projects with **high quality.** As we hope to have our projects help people in the medical setting, these should always be made with the goal of having it be **high quality.**
 
-  ### Come join us at DBH 4011 from 6:00-7:00PM on Tuesdays for our General Meetings/Workshops!
+  ### Come join us at DBH 3011 from 6:00-7:00PM on Mondays for our General Meetings/Workshops!
 
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?
