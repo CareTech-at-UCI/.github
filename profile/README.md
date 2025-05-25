@@ -7,7 +7,7 @@
 
 - **Inclusivity**: Each person on the team should be open and willing to work together with each and every member. Throughout our projects, we always keep inclusivity in mind as inclusivity is extremely important in healthcare. 
 
-- **Collaboration:** When needed, we strive to work with our teammates. At CareTech, we value everyone's ideas and manage disagreements professionally. As long as both sides are open to listen and adapt, then we can work together to make quality work.
+- **Collaboration:** At CareTech, we value everyone's ideas and manage disagreements professionally. As long as both sides are open to listen and adapt, then we can work together to make quality work.
 
 - **Quality:** As we hope to have our projects help people in the medical setting, we always strive to make our projects with **high quality.**
   
