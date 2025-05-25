@@ -3,7 +3,7 @@
 
 **We are a new club that promotes and investigates the Health Technology field by empowering early disease detection with tech solutions**
 
-**Core Values**
+**Core Values** 💙
 
 - **Inclusivity**: Each person on the team should be open and willing to work together with each and every member. Throughout our projects, we always keep inclusivity in mind as inclusivity is extremely important in healthcare. 
 
@@ -17,6 +17,7 @@
 
 # Contact Us
 Email 📬 caretechirvine@gmail.com
+Instagram 🩷 @caretech_uci
 
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?
