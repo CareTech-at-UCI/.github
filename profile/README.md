@@ -10,6 +10,8 @@
 - **Collaboration:** When needed, we strive to work with our teammates. At CareTech, we value everyone's ideas and manage disagreements professionally. As long as both sides are open to listen and adapt, then we can work together to make quality work.
 
 - **Quality:** As we hope to have our projects help people in the medical setting, we always strive to make our projects with **high quality.**
+  
+- **Ethics:** The projects that we make are **never** made to replace medical advice or medical professionals. Our hope is for our projects to **aid** people in early disease detection and possibly ease the workload of medical professionals.
 
   ### Come join us at DBH 3011 from 6:00-7:00PM on Mondays for our General Meetings/Workshops!
 
