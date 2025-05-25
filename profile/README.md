@@ -13,6 +13,9 @@
 
   ### Come join us at DBH 3011 from 6:00-7:00PM on Mondays for our General Meetings/Workshops!
 
+# Contact Us
+Email 📬 caretechirvine@gmail.com
+
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
