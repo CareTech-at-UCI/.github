@@ -1,7 +1,7 @@
 # Welcome to CareTech ⚕️
 
 
-**We are a new club that promotes and investigates the Health Technology field by empowering early disease detection with tech solutions**
+**We are an ICS Affiliated club established in 2024 that promotes and investigates the Health Technology field by empowering early disease detection with tech solutions**
 
 **Core Values** 💙
 
