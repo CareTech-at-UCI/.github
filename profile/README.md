@@ -13,7 +13,6 @@
   
 - **Ethics:** The projects that we make are **never** made to replace medical advice or medical professionals. Our hope is for our projects to **aid** people in early disease detection and possibly ease the workload of medical professionals.
 
-  ### Come join us at DBH 3011 from 6:00-7:00PM on Mondays for our General Meetings/Workshops!
 
 # Contact Us
 Email 📬 caretechirvine@gmail.com
