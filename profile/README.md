@@ -11,7 +11,7 @@
 
 - **Quality:** As we hope to have our projects help people in the medical setting, we always strive to make our projects with **high quality.**
   
-- **Ethics:** The projects that we make are **never** made to replace medical advice or medical professionals. Our hope is for our projects to **aid** people in early disease detection and possibly ease the workload of medical professionals.
+- **Ethics:** The projects that we make are **never** made to replace medical advice or medical professionals. Our hope is for our projects to **aid** people in early disease detection and **ease** the workload of medical professionals.
 
 
 # Contact Us
