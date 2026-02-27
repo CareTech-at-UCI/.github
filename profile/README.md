@@ -17,4 +17,4 @@
 # Contact Us
 Email 📬 caretechirvine@gmail.com
 
-Instagram 🩷 @caretech_uci
+Instagram 🩷 [@caretech_uci](https://www.instagram.com/caretech_uci/)
